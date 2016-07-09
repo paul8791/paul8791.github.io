@@ -1,0 +1,88 @@
+body {
+  background:#6699ff;
+  cursor: url('http://www.cursor.cc/cursor/690/50/cursor.png'), auto;
+}
+
+h1{
+  color:blue;
+  font-size:100px
+}
+
+button {
+  font-size:30px;
+  background: #6699ff;
+  border: 6px dotted black;
+}
+
+a {
+  font-size:50px;
+  text-align: center;
+}
+
+p {
+ font-size:50px; 
+ color:green;
+}
+
+#wizard {
+  position: absolute;
+  left: 200px;
+  top: 400px; 
+}
+
+#fire1 {
+  position: absolute;
+  left: 200px;
+  top: 400px; 
+}
+
+#king {
+  position: absolute;
+  right: 300px;
+  top:  50px;
+}
+
+#fire2 {
+   position: absolute;
+  right: 300px;
+  top:  50px;
+}
+
+#pekka{
+  position: absolute;
+  left:200px;
+}
+
+#fire3{
+  position: absolute;
+  left:200px;
+}
+
+#baloon{
+ position: absolute;
+left:600px;
+top: 450px;
+}
+
+#fire4 {
+ position: absolute;
+left:600px;
+top: 450px;
+}
+
+#lavahound{
+  position:absolute;
+  left:500px;
+  top:200px;
+}
+
+#fire5{
+ position:absolute;
+  left:500px;
+  top:200px; position:absolute;
+  left:500px;
+  top:200px; position:absolute;
+  left:500px;
+  top:200px;  
+}
+
